@@ -1,0 +1,2 @@
+# PingBot
+PingBot for Discord
